@@ -4,7 +4,7 @@
 
 * Open Source
 
-* Convenient Calculator
+* Convenient Calculator.
 
 ## Clone with HTTPS
 ```
