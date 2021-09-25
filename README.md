@@ -18,5 +18,5 @@ pip install
 
 # Generating a password via following command
 ```
-python mashinhesab.py
+python MashinHesab.py
 ```
